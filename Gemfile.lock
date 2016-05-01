@@ -1,9 +1,9 @@
 GIT
   remote: git://github.com/reactjs/react-rails.git
-  revision: b516ef77d2ab24a9b30b494fcd3e11e6f406133e
+  revision: c8764f32aaadcc845abbe6ef67d6407d2daf3ec1
   branch: master
   specs:
-    react-rails (1.6.2)
+    react-rails (1.7.0)
       babel-transpiler (>= 0.7.0)
       coffee-script-source (~> 1.8)
       connection_pool
@@ -196,4 +196,4 @@ DEPENDENCIES
   web-console (~> 2.0.0.beta2)
 
 BUNDLED WITH
-   1.11.2
+   1.12.0
