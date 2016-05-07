@@ -186,7 +186,7 @@ DEPENDENCIES
   rails-html-sanitizer (~> 1.0)
   rails_12factor
   react-rails!
-  sass-rails (~> 5.0.0.beta1)
+  sass-rails
   sdoc (~> 0.4.0)
   showdown-rails
   spring
