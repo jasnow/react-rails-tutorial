@@ -1,9 +1,9 @@
 GIT
   remote: git://github.com/reactjs/react-rails.git
-  revision: 0861b34b7ea78ebeb5b02a560b7ca457326b22b9
+  revision: 861572b965a3cc64121617a562ef051b285ed9e8
   branch: master
   specs:
-    react-rails (1.7.0)
+    react-rails (1.7.1)
       babel-transpiler (>= 0.7.0)
       coffee-script-source (~> 1.8)
       connection_pool
@@ -62,7 +62,7 @@ GEM
       autoprefixer-rails (>= 5.2.1)
       sass (>= 3.3.4)
     builder (3.2.2)
-    byebug (8.2.5)
+    byebug (9.0.0)
     coffee-rails (4.0.1)
       coffee-script (>= 2.2.0)
       railties (>= 4.0.0, < 5.0)
