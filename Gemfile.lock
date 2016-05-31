@@ -50,7 +50,7 @@ GEM
       thread_safe (~> 0.3, >= 0.3.4)
       tzinfo (~> 1.1)
     arel (6.0.3)
-    autoprefixer-rails (6.3.6.1)
+    autoprefixer-rails (6.3.6.2)
       execjs
     babel-source (5.8.35)
     babel-transpiler (0.7.0)
@@ -78,7 +78,7 @@ GEM
     globalid (0.3.6)
       activesupport (>= 4.1.0)
     i18n (0.7.0)
-    jbuilder (2.4.1)
+    jbuilder (2.5.0)
       activesupport (>= 3.0.0, < 5.1)
       multi_json (~> 1.2)
     jquery-rails (4.1.1)
@@ -196,4 +196,4 @@ DEPENDENCIES
   web-console (~> 2.0.0.beta2)
 
 BUNDLED WITH
-   1.12.3
+   1.12.5
