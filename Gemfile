@@ -19,11 +19,13 @@ gem 'autoprefixer-rails'
 
 gem 'sdoc', group: :doc
 
-gem 'sqlite3', group: :development
+group :development do
+  gem 'web-console'
+  gem 'sqlite3'
+end
 
 group :development, :test do
   gem 'byebug'
-  gem 'web-console'
   gem 'spring'
 end
 
