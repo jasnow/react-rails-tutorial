@@ -1,6 +1,6 @@
 GIT
   remote: git://github.com/reactjs/react-rails.git
-  revision: 7fa90eaa6255a02606560f68c881d5eccea528c4
+  revision: f4806e3bd4429677fcff57ffc9a8f2968c954ffa
   branch: master
   specs:
     react-rails (1.7.1)
@@ -165,7 +165,7 @@ GEM
       thread_safe (~> 0.1)
     uglifier (3.0.0)
       execjs (>= 0.3.0, < 3)
-    web-console (3.2.1)
+    web-console (3.3.0)
       activemodel (>= 4.2)
       debug_inspector
       railties (>= 4.2)
