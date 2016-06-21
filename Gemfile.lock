@@ -1,9 +1,9 @@
 GIT
   remote: git://github.com/reactjs/react-rails.git
-  revision: aec90dd2881bed723954eb57115ac7be93afd436
+  revision: d2dba075d6981cd889c492b45aff9f19a6f606fb
   branch: master
   specs:
-    react-rails (1.7.1)
+    react-rails (1.7.2)
       babel-transpiler (>= 0.7.0)
       coffee-script-source (~> 1.8)
       connection_pool
@@ -148,7 +148,7 @@ GEM
       actionpack (>= 3.1)
       railties (>= 3.1)
     spring (1.7.1)
-    sprockets (3.6.1)
+    sprockets (3.6.2)
       concurrent-ruby (~> 1.0)
       rack (> 1, < 3)
     sprockets-rails (3.0.4)
