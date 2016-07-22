@@ -4,10 +4,9 @@ gem 'rails', '5.0.0'
 gem 'rails-controller-testing'
 
 gem 'react-rails', github: 'reactjs/react-rails', branch: 'master'
+gem 'sass-rails',  github: 'rails/sass-rails'
 
 gem 'rails_12factor'
-
-gem 'sass-rails'
 gem 'uglifier'
 gem 'coffee-rails'
 gem 'jquery-rails'
