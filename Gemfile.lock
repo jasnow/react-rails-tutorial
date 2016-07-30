@@ -10,10 +10,10 @@ GIT
 
 GIT
   remote: git://github.com/reactjs/react-rails.git
-  revision: d854ff96c81c0b85e8d3570e1fae0fa0e3f44e21
+  revision: e7c3fbe7aa176e41ba34df87f27ca46ce4571a19
   branch: master
   specs:
-    react-rails (1.8.0)
+    react-rails (1.8.1)
       babel-transpiler (>= 0.7.0)
       coffee-script-source (~> 1.8)
       connection_pool
@@ -175,7 +175,7 @@ GEM
     turbolinks-source (5.0.0)
     tzinfo (1.2.2)
       thread_safe (~> 0.1)
-    uglifier (3.0.0)
+    uglifier (3.0.1)
       execjs (>= 0.3.0, < 3)
     web-console (3.3.1)
       actionview (>= 5.0)
