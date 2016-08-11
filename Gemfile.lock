@@ -10,7 +10,7 @@ GIT
 
 GIT
   remote: git://github.com/reactjs/react-rails.git
-  revision: 4504161630ae1d12994c1d5aa4786aa0cc871e8a
+  revision: e43aabbfc8e17b1f1ef253b9fad87f9cd1a99b28
   branch: master
   specs:
     react-rails (1.8.2)
