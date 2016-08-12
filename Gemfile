@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-gem 'rails', '5.0.0'
+gem 'rails', '5.0.0.1'
 gem 'rails-controller-testing'
 
 gem 'react-rails', github: 'reactjs/react-rails', branch: 'master'
