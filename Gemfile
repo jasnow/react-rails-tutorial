@@ -3,8 +3,8 @@ source 'https://rubygems.org'
 gem 'rails', '5.0.0.1'
 gem 'rails-controller-testing'
 
-gem 'react-rails', github: 'reactjs/react-rails', branch: 'master'
-gem 'sass-rails',  github: 'rails/sass-rails'
+gem 'react-rails', git: 'https://github.com/reactjs/react-rails', branch: 'master'
+gem 'sass-rails',  git: 'https://github.com/rails/sass-rails'
 
 gem 'rails_12factor'
 gem 'uglifier'

@@ -1,5 +1,5 @@
 GIT
-  remote: git://github.com/rails/sass-rails.git
+  remote: https://github.com/rails/sass-rails
   revision: dfbcc6a53653d8908007e26324a0f299f026ec4f
   specs:
     sass-rails (6.0.0.beta1)
@@ -9,7 +9,7 @@ GIT
       sprockets-rails (< 4.0)
 
 GIT
-  remote: git://github.com/reactjs/react-rails.git
+  remote: https://github.com/reactjs/react-rails
   revision: e43aabbfc8e17b1f1ef253b9fad87f9cd1a99b28
   branch: master
   specs:
