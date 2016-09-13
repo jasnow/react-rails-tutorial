@@ -62,7 +62,7 @@ GEM
       minitest (~> 5.1)
       tzinfo (~> 1.1)
     arel (7.1.1)
-    autoprefixer-rails (6.4.1)
+    autoprefixer-rails (6.4.1.1)
       execjs
     babel-source (5.8.35)
     babel-transpiler (0.7.0)
@@ -212,4 +212,4 @@ DEPENDENCIES
   web-console
 
 BUNDLED WITH
-   1.13.0
+   1.13.1
