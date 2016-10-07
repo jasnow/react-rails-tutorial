@@ -10,10 +10,10 @@ GIT
 
 GIT
   remote: https://github.com/reactjs/react-rails
-  revision: 59bde3087feeeddea6e15d8be26e01dc8a257d89
+  revision: 8bea8e1bbdec3e56485c054aabfd0d4a1029be47
   branch: master
   specs:
-    react-rails (1.8.2)
+    react-rails (1.9.0)
       babel-transpiler (>= 0.7.0)
       coffee-script-source (~> 1.8)
       connection_pool
@@ -150,7 +150,7 @@ GEM
     rdoc (4.2.2)
       json (~> 1.4)
     sass (3.4.22)
-    sdoc (0.4.1)
+    sdoc (0.4.2)
       json (~> 1.7, >= 1.7.7)
       rdoc (~> 4.0)
     showdown-rails (0.0.4)
