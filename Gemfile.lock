@@ -10,7 +10,7 @@ GIT
 
 GIT
   remote: https://github.com/reactjs/react-rails
-  revision: 8bea8e1bbdec3e56485c054aabfd0d4a1029be47
+  revision: d2cc6045ab460bbb667c51fd500c49dd37de21c5
   branch: master
   specs:
     react-rails (1.9.0)
@@ -62,7 +62,7 @@ GEM
       minitest (~> 5.1)
       tzinfo (~> 1.1)
     arel (7.1.4)
-    autoprefixer-rails (6.5.1)
+    autoprefixer-rails (6.5.1.1)
       execjs
     babel-source (5.8.35)
     babel-transpiler (0.7.0)
