@@ -17,7 +17,7 @@ gem 'showdown-rails'
 gem 'bootstrap-sass'
 gem 'autoprefixer-rails'
 
-gem 'sdoc', group: :doc
+gem 'sdoc', '1.0.0.beta2', group: :doc # LOCKED DOWN
 
 group :development do
   gem 'web-console'
