@@ -1,11 +1,12 @@
 source 'https://rubygems.org'
 
 gem 'rails', '5.0.1'
-gem 'rails-controller-testing'
 
 gem 'react-rails', git: 'https://github.com/reactjs/react-rails', branch: 'master'
-gem 'sass-rails',  git: 'https://github.com/rails/sass-rails'
 
+gem 'rails-controller-testing'
+
+gem 'sass-rails'
 gem 'rails_12factor'
 gem 'uglifier'
 gem 'coffee-rails'
