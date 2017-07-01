@@ -124,7 +124,7 @@ GEM
       thor (>= 0.18.1, < 2.0)
     rake (12.0.0)
     rdoc (5.1.0)
-    react-rails (2.2.0)
+    react-rails (2.2.1)
       babel-transpiler (>= 0.7.0)
       connection_pool
       execjs
