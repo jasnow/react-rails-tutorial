@@ -22,7 +22,7 @@ gem 'sdoc', group: :doc
 
 group :development do
   gem 'web-console'
-  gem 'sqlite3'
+  gem 'sqlite3', '1.3.13' # 2/7/2019: LOCKED DOWN
 end
 
 group :development, :test do

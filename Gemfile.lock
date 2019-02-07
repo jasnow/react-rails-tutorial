@@ -224,7 +224,7 @@ DEPENDENCIES
   sdoc
   showdown-rails
   spring
-  sqlite3
+  sqlite3 (= 1.3.13)
   turbolinks
   uglifier
   web-console
