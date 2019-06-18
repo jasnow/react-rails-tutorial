@@ -6,7 +6,7 @@ gem 'react-rails'
 
 gem 'rails-controller-testing'
 
-gem 'sass-rails'
+gem 'sassc-rails'
 gem 'rails_12factor'
 gem 'uglifier'
 gem 'jquery-rails'
