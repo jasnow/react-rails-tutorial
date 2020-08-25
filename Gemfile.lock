@@ -56,7 +56,7 @@ GEM
       minitest (~> 5.1)
       tzinfo (~> 1.1)
       zeitwerk (~> 2.2, >= 2.2.2)
-    autoprefixer-rails (9.8.6.2)
+    autoprefixer-rails (9.8.6.3)
       execjs
     babel-source (5.8.35)
     babel-transpiler (0.7.0)
@@ -160,7 +160,7 @@ GEM
     showdown-rails (0.1.0)
       actionpack (>= 3.1)
       railties (>= 3.1)
-    spring (2.1.0)
+    spring (2.1.1)
     sprockets (4.0.2)
       concurrent-ruby (~> 1.0)
       rack (> 1, < 3)
