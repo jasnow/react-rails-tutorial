@@ -15,7 +15,7 @@ gem 'jbuilder'
 gem 'rails-html-sanitizer'
 gem 'showdown-rails'
 gem 'bootstrap-sass'
-gem 'autoprefixer-rails'
+gem 'autoprefixer-rails', '9.8.6.3' # 9/16/2020: LOCKED DOWN
 
 gem 'sdoc', group: :doc
 

@@ -193,7 +193,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  autoprefixer-rails
+  autoprefixer-rails (= 9.8.6.3)
   bootstrap-sass
   brakeman
   byebug
