@@ -26,7 +26,7 @@ gem 'byebug'
 gem 'spring'
 gem 'brakeman'
 
-gem 'pg', group: :production
+#HID: gem 'pg', group: :production # HID on 10/3/2020
 
 # See https://github.com/sstephenson/execjs#readme for more supported runtimes
 # gem 'therubyracer', platforms: :ruby
